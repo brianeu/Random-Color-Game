@@ -1,0 +1,23 @@
+body {
+	background-color: #232323;
+	}
+.square {
+	width: 30%;
+	background: purple;
+	padding-bottom: 30%;
+	margin: 1.66%;
+	transition: easeout, 1000ms;
+}
+.nav {
+	display: flex;
+	justify-content: space-around;
+	width: 50%;
+	margin: 0;
+}
+.container-fluid {
+	margin: 0;
+	padding: 0;
+}
+.navbar-nav {
+	background-color: lightgray;
+}
